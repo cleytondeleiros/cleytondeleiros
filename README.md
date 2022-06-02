@@ -1,5 +1,7 @@
-🗝 Desenvolvimento
-🥇 Commit
+🛠 Desenvolvimento Web
+🥇 Soluções inteligentes
+📚Typescript
+
 
 <div align="center">
   <a href="https://github.com/cleytondeleiros">
